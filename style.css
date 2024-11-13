@@ -1,0 +1,27 @@
+ 
+.fcontainer{
+    height: 100vh !important;
+    width: 100%;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+   padding: 0px !important;
+   
+    
+    
+} 
+
+
+.logincontainer{
+   background-color: aliceblue;
+   width: 100vh;
+   align-items: center;
+   justify-content: center;
+   
+}
+.firstcontainer{
+    display: flex;
+    align-items: center;
+   justify-content: center;
+   
+}
